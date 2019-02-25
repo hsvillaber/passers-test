@@ -1,1 +1,0 @@
-"Purpose: Examination for webappetiser" 
